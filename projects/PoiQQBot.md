@@ -20,4 +20,4 @@
 
 于启用此机器人的 QQ 群发送 `#help` 获得使用帮助
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
