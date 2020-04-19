@@ -19,16 +19,22 @@
       repo: "PoiCraft/poicraft.github.io",
       loadNavbar: true,
       themeColor: '#3F51B5',
+      'flexible-alerts': {
+         style: 'flat'
+      },
       pagination: {
         previousText: '上一章节',
         nextText: '下一章节',
         crossChapter: true
       },
       plugins: [
-        EditOnGithubPlugin.create('https://github.com/PoiCraft/poicraft.github.io/blob/master/', null, '编辑')
+        EditOnGithubPlugin.create('https://github.com/PoiCraft/poicraft.github.io/blob/master/', null, '编辑此页面')
       ]
     }
   </script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
