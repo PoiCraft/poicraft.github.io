@@ -9,13 +9,24 @@
 </head>
 <body>
   <div id="app"></div>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
       name: "PoiCraft",
       loadSidebar: true,
       subMaxLevel: 2,
+      auto2top: true,
+      repo: "PoiCraft/poicraft.github.io"
       loadNavbar: true,
-      themeColor: '#3F51B5'
+      themeColor: '#3F51B5',
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true
+      },
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/PoiCraft/poicraft.github.io/blob/master/', null, '编辑')
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
