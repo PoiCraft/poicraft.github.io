@@ -5,25 +5,25 @@
 
 ## Artifact Yu
 
-![Artifact-Yu_01.jpg](_media/bqb/Artifact-Yu_01.jpg)  
+![Artifact-Yu_01.jpg](_media/BQB/Artifact-Yu_01.jpg)  
 
 ## gggxbbb
 
-![gggxbbb_01.jpg](_media/bqb/gggxbbb_01.jpg)  
+![gggxbbb_01.jpg](_media/BQB/gggxbbb_01.jpg)  
 
 ## 娜
 
-![nana_01.jpg](_media/bqb/nana_01.jpg)  
+![nana_01.jpg](_media/BQB/nana_01.jpg)  
 
 ## Reinhardt L
 
-![Reinhardt-L_01.jpg](_media/bqb/Reinhardt-L_01.jpg)  
-![Reinhardt-L_02.jpg](_media/bqb/Reinhardt-L_02.jpg)  
+![Reinhardt-L_01.jpg](_media/BQB/Reinhardt-L_01.jpg)  
+![Reinhardt-L_02.jpg](_media/BQB/Reinhardt-L_02.jpg)  
 
 ## 呆唯
 
-![呆唯_01.jpg](_media/bqb/呆唯_01.jpg)  
+![呆唯_01.jpg](_media/BQB/呆唯_01.jpg)  
 
 ## 梓
 
-![梓_01.jpg](_media/bqb/梓_01.jpg)  
+![梓_01.jpg](_media/BQB/梓_01.jpg)  
