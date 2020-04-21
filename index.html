@@ -33,17 +33,26 @@
       	  errorText  : '发生了错误',
           successText: '已复制'
         },
+	tabs: {
+    	persist    : true,      
+    	sync       : true,      
+    	theme      : 'material',
+    	tabComments: true,      
+    	tabHeadings: true       
+        },
         executeScript: true,
         plugins: [
           EditOnGithubPlugin.create('https://github.com/PoiCraft/poicraft.github.io/blob/master/', null, '编辑此页面')
         ]
       }
     </script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/lib/buble.css">
     <script src="https://unpkg.com/docsify-copy-code"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs"></script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script>
       if (typeof navigator.serviceWorker !== 'undefined') {
