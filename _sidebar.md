@@ -5,3 +5,7 @@
 * 服务器的衍生项目
 
    - [PoiQQBot](projects/PoiQQBot)
+
+* 群友纪
+  
+  - [表情包](bqb)
