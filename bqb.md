@@ -22,7 +22,7 @@
 
 ## 呆唯
 
-![呆唯_01.jpg](_media/BQB/呆唯_01.jpg)  
+![呆唯_01.jpg](_media/BQB/呆唯_01.png)  
 
 ## 梓
 
