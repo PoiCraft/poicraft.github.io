@@ -18,15 +18,15 @@
 ## 部署
 
 <!-- tabs:start -->
-#### ** Windows **
+#### **Windows**
 
 待补充
 
-#### ** Linux **
+#### **Linux**
 
 不支持
 
-#### ** MacOS **
+#### **MacOS**
 
 不支持
 
@@ -36,15 +36,15 @@
 
 
 <!-- tabs:start -->
-#### ** Windows **
+#### **Windows**
 
 待补充
 
-#### ** Linux **
+#### **Linux**
 
 不支持
 
-#### ** MacOS **
+#### **MacOS**
 
 不支持
 
