@@ -9,3 +9,4 @@
 * 群友纪
   
   - [表情包](group/bqb)
+  - [名言](group/saying)
