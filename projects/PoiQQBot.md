@@ -17,38 +17,39 @@
 
 ## 部署
 
-<!-- tab:start -->
-<!-- tab:Windows -->
+<!-- tabs:start -->
+#### ** Windows **
 
 待补充
 
-<!-- tab:Linux -->
+#### ** Linux **
 
 不支持
 
-<!-- tab:MacOS -->
+#### ** MacOS **
 
 不支持
 
-<!-- tab:end -->
+<!-- tabs:end -->
 
 ## 更新
 
 
-<!-- tab:start -->
-<!-- tab:Windows -->
+<!-- tabs:start -->
+#### ** Windows **
 
 待补充
 
-<!-- tab:Linux -->
+#### ** Linux **
 
 不支持
 
-<!-- tab:MacOS -->
+#### ** MacOS **
 
 不支持
 
-<!-- tab:end -->
+<!-- tabs:end -->
+
 
 ## 使用
 
