@@ -1,4 +1,4 @@
-# PoiQQbot  
+# PoiQQbot-Py  
 
 开发状态: 暂停  
 开发语言: Python3   
