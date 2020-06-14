@@ -4,7 +4,9 @@
 * [使用的闭源程序](close_soft)
 * 服务器的衍生项目
 
-   - [PoiQQBot](projects/PoiQQBot)
+   - [PoiQQBot](projects/PoiQQBot/)
+      
+      * [PoiQQBot-Py](projects/PoiQQBot/PoiQQBot-Py)
 
 * 群友纪
   
