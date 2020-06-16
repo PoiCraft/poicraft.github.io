@@ -8,7 +8,9 @@
 
 * 服务器的衍生项目
    - PoiQQBot
-      * [PoiQQBot-Py](projects/PoiQQBot/PoiQQBot-Py)
+      * [PoiQQBot-Py](https://github.com/PoiCraft/PoiQQBot-Py)
+   - zh系列
+      * [zhMC](https://github.com/PoiCraft/zhMC)
 
 * 群友纪
   - [表情包](group/bqb)
