@@ -9,7 +9,8 @@ QQ群: [769885907](https://jq.qq.com/?_wv=1027&k=5UqznJs)
 
 ## 服务器环境
 
-使用官方 Minecraft Bedrock 服务器核心.  
+使用官方 Minecraft Bedrock 服务器核心,  
+配合自制的 [PoiQQBot](https://github.com/PoiCraft/PoiQQBot-Py).  
 
 ## 服务器特点
 
