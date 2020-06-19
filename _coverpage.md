@@ -4,7 +4,7 @@
 > 一个纯净的 Minecraft BE 生存服务器
 
 - 免费
-- 纯洁
+- 纯净
 
 [QQ](https://jq.qq.com/?_wv=1027&k=5UqznJs)
 ![](_media/2/0.png)
