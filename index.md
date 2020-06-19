@@ -1,5 +1,6 @@
 # PoiCraft
 
+> 服务器 logo 图自 [Piviv#77504198](https://www.pixiv.net/artworks/77504198)
 
 建你所想
 
