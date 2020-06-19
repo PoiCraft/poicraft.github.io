@@ -1,3 +1,5 @@
+![logo](_media/poicraft.png)
+
 # PoiCraft <small>二周目</small>
 
 > 建你所想  
