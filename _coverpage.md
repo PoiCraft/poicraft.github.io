@@ -1,5 +1,4 @@
 
-![logo](_media/poicraft.png)
 
 # PoiCraft <small>二周目</small>
 

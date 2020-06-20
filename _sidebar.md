@@ -1,6 +1,6 @@
 * [关于](/)
 * [大事记](timeline)
-* [图片](ad)
+* [图片](pic)
 
 * 相关项目
    - [使用的开源项目](dependence/open_repo)
