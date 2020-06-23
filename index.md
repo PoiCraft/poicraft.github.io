@@ -2,7 +2,9 @@
 
 > 服务器 logo 图自 [Piviv#77504198](https://www.pixiv.net/artworks/77504198)
 
-建你所想
+建你所想  
+
+提交反馈: [反馈](https://forms.office.com/Pages/ResponsePage.aspx?id=h8nQr5sMkU2yydpckTbfuc0d0R9wqgBOufb-SX00ZHdUQ1EyNjNXVlc1UVQ0U0IxOUpYRTNSUkw2WC4u)  
 
 QQ群: [769885907](https://jq.qq.com/?_wv=1027&k=5UqznJs)  
 教程站: <https://mctutorial.ryanqwq.tech>  
