@@ -10,7 +10,7 @@
 
 QQ群: [769885907](https://jq.qq.com/?_wv=1027&k=5UqznJs)  
 教程站: <https://mctutorial.ryanqwq.tech>  
-
+反馈邮箱: feedback@poicraft.ml
 
 ## 服务器环境
 
