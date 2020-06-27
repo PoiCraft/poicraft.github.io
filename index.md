@@ -4,11 +4,13 @@
 
 建你所想  
 
-提交反馈: [反馈](https://forms.office.com/Pages/ResponsePage.aspx?id=h8nQr5sMkU2yydpckTbfuc0d0R9wqgBOufb-SX00ZHdUQ1EyNjNXVlc1UVQ0U0IxOUpYRTNSUkw2WC4u)  
+官网: <https://poicraft.com>  
+
+> *[PoiCraft.ml](https://poicraft.ml) 是 [PoiCraft.com](https://poicraft.com) 的一部分, 旨在提供免费、开源的服务和内容.*  
 
 QQ群: [769885907](https://jq.qq.com/?_wv=1027&k=5UqznJs)  
 教程站: <https://mctutorial.ryanqwq.tech>  
-
+反馈邮箱: feedback@poicraft.ml
 
 ## 服务器环境
 
