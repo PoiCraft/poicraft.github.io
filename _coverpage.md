@@ -1,6 +1,6 @@
 
 
-# **P**oi**C**raft <small>**2**nd</small>
+# PoiCraft <small>**2**nd</small>
 
 > **C**reate **Y**our **I**magination  
 > 一个纯净的 Minecraft BE 生存服务器
@@ -8,6 +8,6 @@
 - 免费
 - 纯净
 
-[QQ](https://jq.qq.com/?_wv=1027&k=5UqznJs)  
+[QQ](https://jq.qq.com/?_wv=1027&k=5UqznJs)
 
 [Github](https://github.com/PoiCraft)
