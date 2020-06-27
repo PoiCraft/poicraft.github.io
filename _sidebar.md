@@ -6,6 +6,9 @@
    - [使用的开源项目](dependence/open_repo)
    - [使用的闭源程序](dependence/close_soft)
 
+* 资源下载
+  - [各周目地图](res/worlds)
+
 * 服务器的衍生项目
    - PoiQQBot
       * [PoiQQBot-Py](https://github.com/PoiCraft/PoiQQBot-Py)
