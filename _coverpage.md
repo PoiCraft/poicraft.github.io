@@ -8,6 +8,7 @@
 - 免费
 - 纯净
 
-[QQ](https://jq.qq.com/?_wv=1027&k=5UqznJs)
-
+[QQ Group](https://jq.qq.com/?_wv=1027&k=5UqznJs)
+[Tg Group](#)
+[Tg Channel](#)
 [Github](https://github.com/PoiCraft)
