@@ -6,5 +6,5 @@
 * 萌盘: [`Zip`](https://moepan.pw/#/s/nxytX)
 
 ## 二周目
-
-*将于三周目开始后提供*
+* 20200506
+  - Github Releases: [`Zip`](https://github.com/PoiCraft/poicraft_2nd/archive/20200506.zip) [`Tar.gz`](https://github.com/PoiCraft/poicraft_2nd/archive/20200506.tar.gz)
