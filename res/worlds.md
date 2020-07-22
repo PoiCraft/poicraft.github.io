@@ -1,10 +1,11 @@
 # 各周目地图
 
+各周目地图: [萌盘](https://moepan.pw/#/s/5RQIa)  
+感谢[萌盘](https://moepan.pw/)提供的地图存储及下载服务.
+
 ## 一周目
 * [Github Releases](https://github.com/PoiCraft/poicraft_1st/releases/tag/final): [`Zip`](https://github.com/PoiCraft/poicraft_1st/archive/final.zip) [`Tar.gz`](https://github.com/PoiCraft/poicraft_1st/archive/final.tar.gz)
 * [SourceForge](https://sourceforge.net/projects/poicraft-1st/files/final/): [`Zip`](https://sourceforge.net/projects/poicraft-1st/files/final/final.zip/download) [`Tar.gz`](https://sourceforge.net/projects/poicraft-1st/files/final/final.tar.gz/download)
-* OneDrive: [`Zip`](https://poicraft-my.sharepoint.com/:u:/g/personal/renew_poicraft_onmicrosoft_com/EUc1Ismi9RlBjZ8G4KZSYPkBFPcVnPuPo0ZKLWT5AqSjBQ?e=Z2W30I)
-* 萌盘: [`Zip`](https://moepan.pw/#/s/nxytX)
 
 ## 二周目
 ### 20200506
