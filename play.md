@@ -1,5 +1,7 @@
 <script>
+setTimeout(function(){
 window.location="minecraft://?addExternalServer=PoiCraft|play.poicraft.com:19132"
+},"3000")
 </script>
 # 快捷添加服务器
 
