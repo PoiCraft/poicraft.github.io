@@ -13,4 +13,3 @@
 [Github](https://github.com/PoiCraft)
 [Tg Group](https://t.me/poicraft_chat)
 [Tg Channel](https://t.me/poicraft)
-[Join](play)
