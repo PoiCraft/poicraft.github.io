@@ -9,7 +9,7 @@
 - 纯净
 - 无管理
 
-[QQ Group](https://jq.qq.com/?_wv=1027&k=5UqznJs)
 [Github Org](https://github.com/PoiCraft)
 [Tg Group](https://t.me/poicraft_chat)
 [Tg Channel](https://t.me/poicraft)
+[QQ Group](https://jq.qq.com/?_wv=1027&k=5UqznJs)
