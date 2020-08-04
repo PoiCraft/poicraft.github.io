@@ -10,6 +10,6 @@
 - 无管理
 
 [QQ Group](https://jq.qq.com/?_wv=1027&k=5UqznJs)
-[Github](https://github.com/PoiCraft)
+[Github Org](https://github.com/PoiCraft)
 [Tg Group](https://t.me/poicraft_chat)
 [Tg Channel](https://t.me/poicraft)
