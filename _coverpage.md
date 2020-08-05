@@ -1,13 +1,6 @@
-
-
-# PoiCraft <small>**3**rd</small>
-
-> **C**reate **Y**our **I**magination  
-> 一个纯净的 Minecraft BE 生存服务器
-
-- 免费
-- 纯净
-- 无管理
+# Open PoiCraft
+  
+> PoiCraft 的开源计划
 
 [Github Org](https://github.com/PoiCraft)
 [Tg Group](https://t.me/poicraft_chat)
