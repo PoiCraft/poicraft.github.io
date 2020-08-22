@@ -1,6 +1,6 @@
 # PoiCraft 大事记
 
-::: TIP
+::: tip
 仅记录了2020年开始后的事件。内容根据群公告和聊天记录整理，难免有所疏漏。若发现问题可发issues，发pr或发送邮件至gggxbbb@foxmail.com
 :::
 

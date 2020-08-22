@@ -23,6 +23,7 @@ module.exports = {
                 lastUpdated: '最后更新于',
                 sidebar: [
                     ['/', '主页'],
+                    ['/timeline', '大事记'],
                     {
                         title: '使用的项目',
                         children: [
