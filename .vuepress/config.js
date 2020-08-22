@@ -20,7 +20,6 @@ module.exports = {
                 label: '简体中文',
                 editLinkText: '在 GitHub 上编辑此页',
                 repoLabel: '查看源码',
-                lastUpdated: '最后更新于',
                 sidebar: [
                     ['/', '主页'],
                     ['/timeline', '大事记'],
