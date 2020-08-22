@@ -6,7 +6,7 @@ module.exports = {
     },
     locales: {
         '/': {
-            lang: 'zh-CN',
+            lang: 'zh-cn',
             description: 'PoiCraft 开源计划'
         },
     },
