@@ -2,8 +2,11 @@
   "devDependencies": {
     "vuepress": "^1.5.3"
   },
-    "scripts": {
-      "docs:dev": "vuepress dev .",
-      "docs:build": "vuepress build ."
-    }  
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress-theme-antdocs": "^1.1.1"
+  }
 }
