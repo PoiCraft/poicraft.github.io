@@ -26,13 +26,19 @@ module.exports = {
                     { text: '相关项目', link: '/prop/' }
                 ],
                 sidebar: {
-                    '/prop/': [
-                        ['/prop/', '概述'],
+                    '/proj/': [
+                        ['/proj/', '概述'],
                         {
                             title: '使用的项目',
                             children: [
-                                ['/prop/depend/open', '使用的开源项目'],
-                                ['/prop/depend/close', '使用的闭源软件']
+                                ['/proj/depend/open', '使用的开源项目'],
+                                ['/proj/depend/close', '使用的闭源软件']
+                            ]
+                        },
+                        {
+                            title: '衍生项目',
+                            children: [
+                                ['/proj/poi/bot', '机器人']
                             ]
                         }
                     ]

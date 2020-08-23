@@ -6,3 +6,4 @@
 * [Blocktopograph](https://github.com/protolambda/blocktopograph)(GNUv3) Blocktopograph is a fan-made app for MCPE, it includes a top-down world viewer and a NBT editor 
 * [slime-finder-pe](https://github.com/depressed-pho/slime-finder-pe) Web app to visualize slime chunks in MCPE 
 
+除此之外, PoiCraft 还使用了其他项目作为相关项目的依赖. 这些内容可在各 repo 中找到.
