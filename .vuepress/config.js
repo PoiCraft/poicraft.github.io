@@ -12,7 +12,7 @@ module.exports = {
     },
     themeConfig: {
         sidebarDepth: 2,
-        repo: 'PoiCraft/PoiCraft_Open',
+        repo: 'PoiCraft/PoiCraft_About',
         editLinks: true,
         smoothScroll: true,
         locales: {
