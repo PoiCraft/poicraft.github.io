@@ -31,7 +31,7 @@ jobs:
     - name: build
       run: yarn docs:build
     - name: build CNAME
-      run: echo "open.poicraft.com" > .vuepress/dist/CNAME
+      run: echo "poicraft.github.io" > .vuepress/dist/CNAME
     - name: Push to gh-pages
       uses: crazy-max/ghaction-github-pages@v2
       with:
