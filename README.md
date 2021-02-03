@@ -13,5 +13,5 @@ features:
   details: 没有任何玩家拥有 OP权限, 所有玩家都从零开始
 - title: 成就
   details: 服务器未启用作弊, 玩家可以在游玩过程中获得成就
-footer: Copyright © 2020-persent PoiCraft
+footer: Copyright © 2020-present PoiCraft
 ---
