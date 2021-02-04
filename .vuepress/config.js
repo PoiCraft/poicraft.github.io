@@ -23,7 +23,8 @@ module.exports = {
                 repoLabel: '查看源码',
                 nav: [
                     { text: '大事记', link: '/timeline' },
-                    { text: '相关项目', link: '/proj/' }
+                    { text: '相关项目', link: '/proj/' },
+                    { text: '捐赠', link: '/donate'}
                 ],
                 sidebar: {
                     '/proj/': [
