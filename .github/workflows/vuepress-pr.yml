@@ -1,0 +1,27 @@
+name: build gh-pages
+
+on:
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Yarn CLI
+      uses: CultureHQ/actions-yarn@v1.0.1 
+    - name: install
+      run: yarn install
+    - name: build
+      run: yarn docs:build
