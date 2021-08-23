@@ -1,4 +1,4 @@
-name: build gh-pages
+name: test gh-pages
 
 on:
   pull_request:
