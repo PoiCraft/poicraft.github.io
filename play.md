@@ -20,8 +20,8 @@
 ## 在主机上加入本服务器
 
 ### 概述
-	由于主机平台的安全性策略，一般来讲，你是不能加入除“精选服务器”外的外部服务器的，但是，多亏了[Pugmatt](https://github.com/Pugmatt)，他开发了个[工具](https://github.com/Pugmatt/BedrockConnect)让主机玩家能加入外部服务器。这个工具利用DNS劫持强行将“精选服务器”重定向到一个服务器选择菜单，在这个菜单中可以选择加入“精选服务器“或者加入自定义外部服务器。
-  你可能会问：国内不让随便搭DNS服务器，怎么办？不用担心，[Pugmatt](https://github.com/Pugmatt)和几个人提供了可以解析这个服务的DNS，如下表：
+由于主机平台的安全性策略，一般来讲，你是不能加入除“精选服务器”外的外部服务器的，但是，多亏了[Pugmatt](https://github.com/Pugmatt)，他开发了个[工具](https://github.com/Pugmatt/BedrockConnect)让主机玩家能加入外部服务器。这个工具利用DNS劫持强行将“精选服务器”重定向到一个服务器选择菜单，在这个菜单中可以选择加入“精选服务器“或者加入自定义外部服务器。
+你可能会问：国内不让随便搭DNS服务器，怎么办？不用担心，[Pugmatt](https://github.com/Pugmatt)和几个人提供了可以解析这个服务的DNS，如下表：
 
 | IP Address      | Location                                                     | Maintainer                                    | Note                                      |
 | --------------- | ------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------- |
@@ -52,7 +52,7 @@
 
 1. 打开**Minecraft**
 2. 切换到**服务器**
-3. 任意选择一个**”精选服务器“**
+3. 任意选择一个**精选服务器**
 4. 等待进入服务器，弹出菜单
 5. 选择**Conncet to a Server**
 6. 输入名称(Display Name on Server List)，地址(Server Address)，端口(Server Port)
@@ -84,7 +84,7 @@
 
 1. 打开**Minecraft**
 2. 切换到**服务器**
-3. 任意选择一个**”精选服务器“**
+3. 任意选择一个**精选服务器**
 4. 等待进入服务器，弹出菜单
 5. 选择**Conncet to a Server**
 6. 输入名称(Display Name on Server List)，地址(Server Address)，端口(Server Port)
@@ -112,7 +112,7 @@
 
 1. 打开**Minecraft**
 2. 切换到**服务器**
-3. 任意选择一个**”精选服务器“**
+3. 任意选择一个**精选服务器**
 4. 等待进入服务器，弹出菜单
 5. 选择**Conncet to a Server**
 6. 输入名称(Display Name on Server List)，地址(Server Address)，端口(Server Port)
