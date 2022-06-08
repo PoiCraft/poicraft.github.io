@@ -15,3 +15,9 @@ features:
   details: 服务器未启用作弊, 玩家可以在游玩过程中获得成就
 footer: Copyright © 2020-present PoiCraft
 ---
+
+## 服务状态
+
+![](https://status.evax.top/api/badge/18/uptime/24h?labelPrefix=PoiCraft-Server%20&style=for-the-badge)  ![](https://status.evax.top/api/badge/18/status?labelPrefix=PoiCraft-Server%20&style=for-the-badge)  
+![](https://status.evax.top/api/badge/16/uptime/24h?labelPrefix=PoiCraft-Bot%20&style=for-the-badge)  ![](https://status.evax.top/api/badge/16/status?labelPrefix=PoiCraft-Bot%20&style=for-the-badge)  
+![](https://status.evax.top/api/badge/22/uptime/24h?labelPrefix=PoiCraft-Addr%20&style=for-the-badge)  ![](https://status.evax.top/api/badge/22/status?labelPrefix=PoiCraft-Bot%20&style=for-the-badge) 
