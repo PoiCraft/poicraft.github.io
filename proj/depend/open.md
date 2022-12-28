@@ -4,11 +4,11 @@
 
 * ~~[BedrockX](https://github.com/Sysca11/BedrockX)(GPLv3) The next modding framework for Minecraft Bedrock Server on Windows~~  
 * ~~[ElementZero](https://github.com/Element-0/ElementZero)(GNUv3) Run windows version of BDS in linux with Mod support~~  
-* [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)  
+* [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS) An epoch-making cross-language plugin loader for Minecraft Bedrock Dedicated Server (BDS).  
 
 ## 插件
 
-* [TrapDoor](https://github.com/bedrock-dev/trapdoor-ll)  
+* [TrapDoor](https://github.com/bedrock-dev/trapdoor-ll) a dll mod for Minecraft bedrock server, provides functions like je's carpet mod.  
 
 ## 杂项
 
