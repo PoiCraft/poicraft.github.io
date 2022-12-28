@@ -25,7 +25,6 @@ module.exports = {
                     { text: '大事记', link: '/timeline' },
                     { text: '手册', link: '/guide'},
                     { text: '相关项目', link: '/proj/' },
-                    { text: '捐赠', link: '/donate'}
                 ],
                 sidebar: {
                     '/proj/': [
