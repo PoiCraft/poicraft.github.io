@@ -20,8 +20,8 @@ footer: Copyright © 2020-present PoiCraft
 
 # 服务状态
 
-![](https://status.evax.top/api/badge/18/uptime/24h?labelPrefix=主服务器%20&style=for-the-badge)  ![](https://status.evax.top/api/badge/18/status?labelPrefix=主服务器%20&style=for-the-badge)  
-![](https://status.evax.top/api/badge/16/uptime/24h?labelPrefix=QQ%20机器人%20&style=for-the-badge)  ![](https://status.evax.top/api/badge/16/status?labelPrefix=QQ%20机器人%20&style=for-the-badge)  
-![](https://status.evax.top/api/badge/22/uptime/24h?labelPrefix=服务器域名%20&style=for-the-badge)  ![](https://status.evax.top/api/badge/22/status?labelPrefix=服务器域名%20&style=for-the-badge) 
+![](https://poi.uptime.ink/api/badge/18/uptime/24h?labelPrefix=主服务器%20&style=for-the-badge)  ![](https://poi.uptime.ink/api/badge/18/status?labelPrefix=主服务器%20&style=for-the-badge)  
+![](https://poi.uptime.ink/api/badge/16/uptime/24h?labelPrefix=QQ%20机器人%20&style=for-the-badge)  ![](https://poi.uptime.ink/api/badge/16/status?labelPrefix=QQ%20机器人%20&style=for-the-badge)  
+![](https://poi.uptime.ink/api/badge/22/uptime/24h?labelPrefix=服务器域名%20&style=for-the-badge)  ![](https://poi.uptime.ink/api/badge/22/status?labelPrefix=服务器域名%20&style=for-the-badge) 
 
-[更多详情](https://poi.evax.top)
+[更多详情](https://poi.uptime.ink)
