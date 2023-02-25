@@ -8,12 +8,12 @@
 
 ## 添加服务器
 
-~点击 [此处](minecraft://?addExternalServer=PoiCraft|play.poicraft.com:19132) 自动添加服务器~, 或根据以下内容自行配置:
+~~点击 [此处](minecraft://?addExternalServer=PoiCraft|play.poicraft.com:19132) 自动添加服务器~~, 或根据以下内容自行配置:
 
 |配置|值|
 |:-:|:--|
 |名称|PoiCraft|
-|地址|~play.poicraft.com~ 42.193.179.107|
+|地址|~~play.poicraft.com~~ 42.193.179.107|
 |端口|19132|
 
 
